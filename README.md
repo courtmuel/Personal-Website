@@ -67,10 +67,10 @@ Below is a display of screenshots showing the finished website and dynamic image
 https://github.com/courtmuel/Personal-Website/assets/116760245/486d9092-6b8d-441c-a80b-852b6f17e14c
 
 <p float="left">
-  <img src="https://github.com/courtmuel/Personal-Website/assets/116760245/5db8f03b-a42a-4c10-8608-158cd259da3b" width="450" height="250"/>
-  <img src="https://github.com/courtmuel/Personal-Website/assets/116760245/56922da6-f693-4edc-804b-b1a070b0a905))" width="450" height="250"/>
-  <img src="https://github.com/courtmuel/Personal-Website/assets/116760245/09dc0225-6c8c-4c51-82dc-10295fa9e99d" width="450" height="250"/>
-  <img src="https://github.com/courtmuel/Personal-Website/assets/116760245/9b1e148d-9365-4807-b34f-12b58c8239ea" width="450" height="250"/>
+  <img src="https://github.com/courtmuel/Personal-Website/assets/116760245/5db8f03b-a42a-4c10-8608-158cd259da3b" width="430" height="250"/>
+  <img src="https://github.com/courtmuel/Personal-Website/assets/116760245/56922da6-f693-4edc-804b-b1a070b0a905))" width="430" height="250"/>
+  <img src="https://github.com/courtmuel/Personal-Website/assets/116760245/09dc0225-6c8c-4c51-82dc-10295fa9e99d" width="430" height="250"/>
+  <img src="https://github.com/courtmuel/Personal-Website/assets/116760245/9b1e148d-9365-4807-b34f-12b58c8239ea" width="430" height="250"/>
 </p>
 
 <br>
